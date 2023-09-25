@@ -26,17 +26,3 @@ class TestPositive:
                              "Everything is Ok"))
 
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
